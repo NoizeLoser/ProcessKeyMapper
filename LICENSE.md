@@ -100,6 +100,27 @@ Every fork must retain full support for these three base localization files:
 
 Forks are not required to include optional, experimental, humorous, or community-created localizations from the Original Project.
 
+### 4.5 Preservation of This License
+
+Every fork, redistribution, modification, or Derivative Work must retain a complete and unmodified copy of this License.
+
+The License file (`LICENSE.md`) must not be removed, hidden, replaced, or modified in a way that removes, weakens, or contradicts any of its terms and conditions.
+
+The License text must remain accessible to users and recipients of the Software and any Derivative Work.
+
+No person or entity may:
+
+- Remove or delete the original `LICENSE.md` file.
+- Replace this License with another license.
+- Remove, alter, or obscure any copyright notices or Original Author attribution contained in this License.
+- Modify this License to remove or weaken the permissions, restrictions, or obligations established by the Original Author.
+- Distribute the Original Project or any Derivative Work without including a complete copy of this License.
+
+Any additional license terms applied to original contributions within a Derivative Work must not override, weaken, or invalidate the terms of this License as they apply to the Original Project and materials derived from it.
+
+Violation of this section constitutes a breach of this License and may result in termination of the rights granted under Section 9.
+
+
 ## 5. Limited Commercial Exception — 10% Rule
 
 The Original Author may, at their sole discretion, grant an individual commercial-use exception to a project in which materials, code, or functionality borrowed from the Original Project constitute no more than 10% of the applicant's entire project.
@@ -190,3 +211,23 @@ THIS INCLUDES, WITHOUT LIMITATION:
 THE ORIGINAL AUTHOR SHALL NOT BE RESPONSIBLE FOR ANY CONSEQUENCES RESULTING FROM THE USER'S CONFIGURATION, MODIFICATION, DISTRIBUTION, OR USE OF THE SOFTWARE, INCLUDING USE IN ENVIRONMENTS WHERE KEYBOARD INPUT INTERCEPTION OR SIMULATED INPUT MAY BE RESTRICTED.
 
 NOTHING IN THIS LICENSE SHALL EXCLUDE OR LIMIT LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+
+## 9. Termination
+
+Any rights granted under this License shall automatically terminate if the Licensee fails to comply with any of its terms and conditions.
+
+Upon termination, the Licensee must immediately:
+
+- Cease all use, reproduction, modification, and distribution of the Software and any derivative works under this License;
+- Stop distributing any copies of the Software or derivative works;
+- Remove the Software from any products, services, or distributions under the Licensee's control, where reasonably possible;
+- Destroy or permanently delete copies of the Software and derivative works under the Licensee's control, except where retention is required by applicable law.
+
+Termination of this License does not release the Licensee from liability for violations or obligations that arose before termination.
+
+Any rights terminated under this section may only be reinstated with the explicit written permission of the ORIGINAL AUTHOR.
+
+Sections concerning attribution, intellectual property, disclaimers, limitation of liability, and any obligations intended by their nature to survive termination shall remain in effect after termination.
+
+The ORIGINAL AUTHOR reserves the right to pursue any remedies available under applicable law in response to violations of this License.
