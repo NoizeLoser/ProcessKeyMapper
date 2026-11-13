@@ -54,8 +54,8 @@ ProcessKeyMapper разрабатывается как переносимое п
 - Основные файлы располагаются в папке программы.
 - Конфигурация и языковые файлы хранятся рядом с приложением.
 - Приложение не должно зависеть от путей, привязанных к конкретному компьютеру.
-- Для сборок используется статическая версия C Runtime (`/MT`).
-- Единственное предусмотренное исключение для системного реестра — необязательная настройка автозапуска через `HKCU Run`.
+- Для сборок используется динамическая версия C Runtime (`/MD`).
+- - Единственное предусмотренное исключение для системного реестра — необязательная настройка автозапуска через `HKCU Run`.
 
 ## Языки интерфейса
 
@@ -119,7 +119,7 @@ ProcessKeyMapper is designed as a portable application.
 - Application files are stored in the program directory.
 - Configuration and localization files are stored alongside the application.
 - The application should not depend on machine-specific paths.
-- Builds use the static C Runtime (`/MT`).
+- Builds use the dynamic C Runtime (`/MD`).
 - The only planned registry exception is optional startup configuration through `HKCU Run`.
 
 ## Interface Languages
