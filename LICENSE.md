@@ -133,33 +133,57 @@ This exception is not automatic and cannot be assumed.
 
 An applicant must:
 
-1. Complete the official commercial permission PDF template provided in the Original Project repository.
-2. Identify the commercial project.
-3. Identify its authors using real names, official pseudonyms, or studio names.
-4. Declare and confirm that the code or functionality borrowed from the Original Project constitutes no more than 10% of the applicant's entire project.
-5. Agree to public publication of the completed application form.
-6. Send the completed form to the contact email designated by the Original Author.
+1. Obtain the appropriate official application template from the `commercial-whitelist/templates/` directory in the Original Project repository.
+2. Complete the application in accordance with the instructions provided in the selected template.
+3. Identify the commercial project.
+4. Identify the project's authors using their real names, official pseudonyms, or studio names.
+5. Declare and confirm that the code or functionality borrowed from the Original Project constitutes no more than 10% of the applicant's entire project.
+6. Agree to public publication of the completed application and its corresponding English version.
+7. Send the completed application documents to the contact email designated by the Original Author.
+
+Applicants may submit their applications in English or Russian.
+
+Applications submitted in Russian must include an English translation. The applicant may either:
+
+- Authorize the Original Author to prepare the English translation using the designated translation option in the Russian application template; or
+- Prepare the English translation independently using the official translation template and submit it together with the Russian original.
 
 ### 5.2 Approval and Public Confirmation
 
 The Original Author independently decides whether to approve or reject an application.
 
-If approved, the Original Author personally uploads the completed application PDF to the protected `commercial-whitelist/` directory in the Official Repository.
+If approved, the Original Author personally publishes the approved application documents in the protected `commercial-whitelist/` directory of the Official Repository.
 
-The presence of the approved PDF in that directory is the only valid public confirmation of the exception.
+The publication procedure depends on the language of the submitted application.
 
-The following do not constitute permission:
+**Applications submitted in English**
 
-- An email without the published approved PDF.
+The approved English application PDF is uploaded directly to the `commercial-whitelist/` directory.
+
+**Applications submitted in Russian**
+
+The Russian original and its corresponding English translation are published together in a project-specific subdirectory:
+
+`commercial-whitelist/<ProjectName>/`
+
+The English translation is the official public reference for the approved Commercial Use exception. The Russian original is retained alongside it as the source document for verification.
+
+**Public Confirmation**
+
+The presence of the approved English application PDF within the `commercial-whitelist/` directory, including its project-specific subdirectories, is the only valid public confirmation of a Commercial Use exception under this License.
+
+The following do not constitute public confirmation:
+
+- An email without the published approved English application PDF.
 - A private conversation.
 - A verbal statement.
 - An application submitted but not approved.
 - A PDF stored outside the Official Repository.
+- A Russian application without its corresponding approved English translation published in the Official Repository.
 
-If the approved PDF is absent from the official `commercial-whitelist/` directory, commercial use remains prohibited.
+If the approved English application PDF is absent from the official `commercial-whitelist/` directory, the Commercial Use exception has not been publicly confirmed and the default prohibition on Commercial Use remains in effect.
 
-The exception applies only to the project identified in the approved document and only within the scope stated in that document.
-
+The exception applies only to the project identified in the approved application and only within the scope stated in that document.
 ## 6. Contributions and Official Repository Control
 
 The Official Repository is controlled exclusively by the Original Author.
