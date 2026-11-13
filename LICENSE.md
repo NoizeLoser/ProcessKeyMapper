@@ -4,7 +4,7 @@
 
 **Version 1.0**
 
-Copyright (c) 2026 Original Author of ProcessKeyMapper
+Copyright (c) 2026 NoizeLoser (Original Author of ProcessKeyMapper)
 
 All rights reserved except for the permissions explicitly granted below.
 
@@ -15,10 +15,10 @@ This license applies to the ProcessKeyMapper project, its source code, documenta
 For the purposes of this license:
 
 - **Original Project** means the official ProcessKeyMapper project and its official repository.
-- **Original Author** means the person or entity that owns and maintains the official ProcessKeyMapper project.
+- **Original Author** means NoizeLoser (https://github.com/NoizeLoser), the creator and owner of the ProcessKeyMapper project.
 - **Derivative Work** means any modified version, fork, adaptation, redistribution, or project incorporating any part of the Original Project.
 - **Commercial Use** means using the Original Project or a Derivative Work as part of an activity intended to generate revenue, provide paid access, or obtain commercial advantage.
-- **Official Repository** means the repository designated by the Original Author as the official ProcessKeyMapper repository.
+- **Official Repository** means the repository designated by the Original Author as the official ProcessKeyMapper repository (https://github.com/NoizeLoser/ProcessKeyMapper).
 
 ## 2. Permission to Use and Modify
 
