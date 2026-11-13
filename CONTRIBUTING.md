@@ -214,10 +214,29 @@ All contributions must comply with the project's [`LICENSE.md`](LICENSE.md).
 
 By submitting a contribution, you confirm that:
 
-- You have the right to submit the proposed material.
+- You have the right to submit the proposed material and grant the permissions described in this section.
 - Your contribution does not knowingly violate third-party rights.
-- You understand that acceptance does not transfer ownership of the Official Repository.
+- You understand that acceptance does not transfer ownership or copyright of the Official Repository.
 - You agree that the contribution will be distributed under the project's applicable license terms if accepted.
+- You retain ownership and copyright of your original contribution.
+
+### 9.1 Contributor License Grant
+
+By submitting a contribution to the Official Repository, the contributor grants the Original Author a perpetual, worldwide, non-exclusive, royalty-free, irrevocable, and sublicensable license to use, reproduce, modify, adapt, create derivative works from, distribute, publish, and otherwise exploit the contribution.
+
+This license includes the right to:
+
+- Incorporate the contribution into the Original Project and any Derivative Works.
+- Modify, adapt, or remove the contribution at the Original Author's discretion.
+- Distribute the contribution as part of the Original Project or any Derivative Work.
+- Authorize third parties to use, modify, distribute, and sublicense the contribution.
+- Grant commercial-use permissions involving the contribution, including permissions issued under Section 5 of `LICENSE.md`.
+
+This license grant does not constitute a transfer of copyright ownership. The contributor retains ownership of their original contribution.
+
+The contributor represents that they have the legal right to grant the permissions described in this section.
+
+This grant applies to contributions submitted through Pull Requests, whether or not they are ultimately accepted into the Official Repository.
 
 Do not submit code, assets, or translations copied from third parties unless you have the necessary rights to do so.
 
