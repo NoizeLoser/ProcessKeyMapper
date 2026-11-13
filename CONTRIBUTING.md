@@ -143,7 +143,7 @@ In particular, contributors should avoid introducing changes that contradict the
 - Native C++ and Win32 API implementation.
 - No external application frameworks or virtual machines.
 - Portable directory structure.
-- Static runtime linking (`/MT` or equivalent).
+- Dynamic runtime linking (`/MD` or equivalent) with required runtime DLLs bundled locally in the portable directory.
 - No unnecessary external DLL dependencies.
 - No unnecessary writes to system directories or the Windows registry.
 - Separation of responsibilities between Launcher, Watcher, Backend, and GUI.
