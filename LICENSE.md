@@ -200,6 +200,7 @@ The Original Author retains sole discretion to:
 
 Submitting a Pull Request does not grant the contributor ownership or control over the Official Repository.
 
+All contributions are subject to the Contributor License Agreement terms in Section 9 of CONTRIBUTING.md, which are incorporated into this License by reference.
 
 ## 7. Disclaimer of Warranty
 
