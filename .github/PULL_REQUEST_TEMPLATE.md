@@ -114,7 +114,7 @@ Add any other information that may help the Original Author review this Pull Req
 
 By submitting this Pull Request, I confirm that:
 
-- [ ] I have read [`CONTRIBUTING.md`](../CONTRIBUTING.md).
+- [ ] I have read [`CONTRIBUTING.md`](../CONTRIBUTING.md) and agree to the Contributor License Grant in Section 9.1.
 - [ ] I have read and agree to comply with [`LICENSE.md`](../LICENSE.md).
 - [ ] I have the right to submit the code, assets, or other materials included in this contribution.
 - [ ] I have not knowingly included material that violates third-party rights.
