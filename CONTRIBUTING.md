@@ -7,6 +7,7 @@ Thank you for your interest in contributing to ProcessKeyMapper.
 ProcessKeyMapper is a source-available project maintained and controlled by its Original Author. Community contributions are welcome, but all changes to the Official Repository are subject to review and approval by the Original Author.
 
 By participating in this project, you agree to follow the requirements described in this document and in [`LICENSE.md`](LICENSE.md).
+Capitalized terms used but not defined in this document have the meanings assigned to them in LICENSE.md.
 
 ---
 
